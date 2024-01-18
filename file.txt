@@ -13,4 +13,7 @@ dfg
 0.1.1.1.
 Updated files from future branch
 <div class="collapse navbar-collapse" id="navbarResponsive"
->>>>>>> feture
+00000000>>>>>>> feture
+
+i have added one tag
+
